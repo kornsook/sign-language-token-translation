@@ -1,1 +1,1 @@
-# sign-language-token-translation
+# English to sign language tokens
